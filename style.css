@@ -1,0 +1,39 @@
+.heading 
+{
+    width: 100%;
+    color: white;
+}
+
+.heading h3
+{
+   display: inline;
+   color: white;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+#start, #status
+{
+    font-size: 22px;
+}
+
+.restart
+{
+    font-size: 15px;
+    border-radius: 20px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: darkmagenta;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 2;
+    text-align: center;
+}
